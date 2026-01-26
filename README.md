@@ -16,7 +16,7 @@ This toolkit was created by a localization project manager to address real-world
 
 ### QA Tools
 <ul>
-<li>QA Auditor (`qa_tools/qa_auditor.py`) - Automated quality checks comparing source and target files</li>
+<li>QA Auditor (qa_tools/qa_auditor.py) - Automated quality checks comparing source and target files</li>
 <ul>
 <li>Missing placeholder detection</li>
 <li>String length validation for UI constraints</li>
