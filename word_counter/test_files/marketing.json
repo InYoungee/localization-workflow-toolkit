@@ -1,0 +1,27 @@
+{
+  "homepage": {
+    "hero_title": "Experience the Adventure of a Lifetime",
+    "hero_subtitle": "Join millions of players in the most immersive RPG experience",
+    "cta_button": "Play Now - Free",
+    "features_title": "What Makes Us Different"
+  },
+  "features": {
+    "feature_1": {
+      "title": "Stunning Graphics",
+      "description": "Experience breathtaking visuals powered by cutting-edge technology"
+    },
+    "feature_2": {
+      "title": "Epic Storyline",
+      "description": "Immerse yourself in a rich narrative with memorable characters"
+    },
+    "feature_3": {
+      "title": "Competitive Gameplay",
+      "description": "Test your skills against players from around the world"
+    }
+  },
+  "testimonials": {
+    "quote_1": "This game changed my life! The community is amazing and the gameplay is addictive.",
+    "quote_2": "Best mobile game I've ever played. Can't stop playing!",
+    "quote_3": "Five stars! The graphics are incredible and the story keeps me hooked."
+  }
+}

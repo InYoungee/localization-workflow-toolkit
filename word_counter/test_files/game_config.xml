@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+  <metadata>
+    <title>Epic Adventure Quest</title>
+    <description>Embark on an epic journey through mystical lands filled with dangerous enemies and hidden treasures.</description>
+    <genre>Role-Playing Game</genre>
+    <rating>Teen</rating>
+  </metadata>
+
+  <ui>
+    <menu>
+      <item id="main_title">Epic Adventure Quest</item>
+      <item id="start_button">Start New Adventure</item>
+      <item id="load_button">Load Saved Game</item>
+      <item id="options_button">Options and Settings</item>
+      <item id="quit_button">Exit to Desktop</item>
+    </menu>
+
+    <hud>
+      <element name="health_label">Health Points</element>
+      <element name="mana_label">Mana Points</element>
+      <element name="stamina_label">Stamina</element>
+      <element name="gold_label">Gold Coins</element>
+      <element name="level_label">Character Level</element>
+    </hud>
+  </ui>
+
+  <messages>
+    <notification type="achievement">You've unlocked a new achievement!</notification>
+    <notification type="level_up">Level up! Your skills have improved.</notification>
+    <notification type="item_found">You discovered a rare item!</notification>
+    <notification type="quest_complete">Quest objective completed successfully.</notification>
+  </messages>
+
+  <tutorials>
+    <step id="1">Use WASD keys to move your character in different directions.</step>
+    <step id="2">Press spacebar to interact with objects and NPCs in the game world.</step>
+    <step id="3">Open your inventory with the I key to manage items and equipment.</step>
+    <step id="4">Check your quest log with the Q key to track your current objectives.</step>
+    <step id="5">Press ESC at any time to access the game menu and settings.</step>
+  </tutorials>
+
+  <errors>
+    <error code="NET001">Network connection failed. Unable to reach game servers.</error>
+    <error code="SAVE001">Could not save game progress. Please check disk space.</error>
+    <error code="LOAD001">Save file corrupted. Unable to load game data.</error>
+    <error code="AUTH001">Authentication failed. Please check your login credentials.</error>
+  </errors>
+</game>

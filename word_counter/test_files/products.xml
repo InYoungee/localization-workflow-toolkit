@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <product id="001">
+    <name>Legendary Sword of Fire</name>
+    <description>A powerful weapon forged in the depths of volcanic mountains. Deals massive fire damage to enemies.</description>
+    <category>Weapons</category>
+    <price>500</price>
+  </product>
+
+  <product id="002">
+    <name>Dragon Scale Armor</name>
+    <description>Heavy armor crafted from the scales of ancient dragons. Provides excellent protection against physical and magical attacks.</description>
+    <category>Armor</category>
+    <price>750</price>
+  </product>
+
+  <product id="003">
+    <name>Health Potion</name>
+    <description>Restores health points instantly. Essential for surviving difficult battles and long journeys.</description>
+    <category>Consumables</category>
+    <price>25</price>
+  </product>
+
+  <product id="004">
+    <name>Mana Crystal</name>
+    <description>Restores mana points to cast powerful spells. Highly valuable for magic users and spellcasters.</description>
+    <category>Consumables</category>
+    <price>30</price>
+  </product>
+
+  <product id="005">
+    <name>Ring of Strength</name>
+    <description>Increases the wearer's physical strength by ten percent. Perfect for warriors and melee fighters.</description>
+    <category>Accessories</category>
+    <price>300</price>
+  </product>
+</catalog>
+
+

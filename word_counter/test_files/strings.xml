@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Epic Adventure Quest</string>
+    <string name="welcome_message">Welcome to the most immersive RPG experience!</string>
+    <string name="start_game">Start Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit Game</string>
+
+    <string name="level_up_message">Congratulations! You've reached level %d!</string>
+    <string name="health">Health</string>
+    <string name="mana">Mana</string>
+    <string name="inventory">Inventory</string>
+
+    <string name="error_network">Unable to connect to server. Please check your internet connection and try again.</string>
+    <string name="error_save">Failed to save game progress. Please try again.</string>
+
+    <string name="tutorial_move">Use the arrow keys to move your character around the game world.</string>
+    <string name="tutorial_combat">Press the spacebar to attack enemies. Watch your health bar carefully!</string>
+    <string name="tutorial_items">Collect items to upgrade your abilities and unlock new skills.</string>
+
+    <string name="achievement_unlocked">Achievement Unlocked!</string>
+    <string name="quest_complete">Quest completed! You earned %d gold coins.</string>
+
+    <string name="settings_audio">Audio Settings</string>
+    <string name="settings_graphics">Graphics Settings</string>
+    <string name="settings_controls">Control Settings</string>
+    <string name="master_volume">Master Volume</string>
+    <string name="music_volume">Music Volume</string>
+    <string name="sfx_volume">Sound Effects Volume</string>
+</resources>

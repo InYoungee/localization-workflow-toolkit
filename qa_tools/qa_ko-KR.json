@@ -1,0 +1,6 @@
+{
+  "welcome_message": "{user_name}님, 환영합니다!",
+  "storage_info": "50GB 중 %s를 사용했습니다.",
+  "cancel_button": "취소하시려면 여기를 클릭하십시오. 이 작업은 되돌릴 수 없으며 시스템에 즉시 반영됩니다.",
+  "subscription_alert": "요금제가 {days}일 후에 만료됩니다. <a 주소='https://canva.com/billing'>지금 갱신</a>"
+}

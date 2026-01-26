@@ -1,0 +1,6 @@
+{
+  "welcome_message": "Welcome back, {user_name}!",
+  "storage_info": "You have used %d of your 50GB.",
+  "cancel_button": "Cancel",
+  "subscription_alert": "Your plan expires in {days_left} days. <a href='https://canva.com/billing'>Renew now</a>"
+}

@@ -1,0 +1,61 @@
+{
+  "main_menu": {
+    "title": "Epic Adventure Quest",
+    "start_new_game": "Start New Game",
+    "continue_game": "Continue",
+    "load_game": "Load Game",
+    "settings": "Settings",
+    "achievements": "Achievements",
+    "store": "In-Game Store",
+    "exit": "Exit to Desktop"
+  },
+  "hud": {
+    "health": "Health",
+    "mana": "Mana",
+    "stamina": "Stamina",
+    "level": "Level",
+    "experience": "Experience",
+    "gold": "Gold",
+    "inventory": "Inventory",
+    "quests": "Active Quests",
+    "map": "World Map"
+  },
+  "combat": {
+    "attack": "Attack",
+    "defend": "Defend",
+    "special_ability": "Special Ability",
+    "use_item": "Use Item",
+    "flee": "Flee from Battle",
+    "victory": "Victory! You gained {{exp}} experience and {{gold}} gold.",
+    "defeat": "You have been defeated. Respawn at last checkpoint?"
+  },
+  "inventory": {
+    "weapons": "Weapons",
+    "armor": "Armor",
+    "consumables": "Consumables",
+    "quest_items": "Quest Items",
+    "weight": "Weight",
+    "max_weight": "Maximum Weight",
+    "equip": "Equip",
+    "unequip": "Unequip",
+    "use": "Use",
+    "drop": "Drop",
+    "sell": "Sell"
+  },
+  "settings": {
+    "audio": "Audio Settings",
+    "graphics": "Graphics Settings",
+    "controls": "Control Settings",
+    "language": "Language",
+    "master_volume": "Master Volume",
+    "music_volume": "Music Volume",
+    "sfx_volume": "Sound Effects Volume",
+    "resolution": "Screen Resolution",
+    "fullscreen": "Fullscreen Mode",
+    "vsync": "Vertical Sync",
+    "quality_preset": "Graphics Quality Preset",
+    "apply": "Apply Changes",
+    "cancel": "Cancel",
+    "restore_defaults": "Restore Default Settings"
+  }
+}
