@@ -86,7 +86,7 @@ Checks target files against source files and generates detailed Excel reports wi
 ```bash
 python excel_counter/create_sample_excel_files.py
 ```
-Creates sample game localization files (KO→EN, JP) with string info comments.
+Creates sample game localization files (KO→EN & JP) with string IDs and info comments.
 
 <b>Count Excel Column Words</b>
 ```bash
