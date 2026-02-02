@@ -8,7 +8,7 @@ This toolkit was created by a localization project manager to address real-world
 ### Word Counter Tools
 
 <ul>
-<li><b>Multi-Format Counter</b> (multi_format_counter.py) - Count words across various file formats (json, x in a single operation</li>
+<li><b>Multi-Format Counter</b> (multi_format_counter.py) - Count words across various file formats (json, xml, pdf, docx) in a single operation</li>
 <li><b>GUI Counter</b> (gui_counter.py) - Desktop application with file uploader, visual word count analysis, and Excel report export</li>
 <li><b>Streamlit Counter</b> (streamlit_counter.py) - Web-based interface for word count analysis with CSV export</li>
 <li><b>Advanced Streamlit Counter</b> (streamlit_counter_advanced_counter.py) - Enhanced web interface with target language-specific cost calculations and Excel export</li>
