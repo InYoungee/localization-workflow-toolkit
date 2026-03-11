@@ -163,4 +163,5 @@ Built from real-world experience in gaming localization to help the broader loca
 
 *If you find this toolkit helpful, please consider giving it a ⭐ on GitHub!*
 
+## Demo
 ![streamlit WC counter](https://github.com/InYoungee/portfolio/blob/main/assets/img/portfolio/streamlit_wordcounter.gif)
